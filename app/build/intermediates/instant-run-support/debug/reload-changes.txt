@@ -1,0 +1,9 @@
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$id$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$mipmap$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$integer$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$styleable$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$string$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$layout$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\vnatures\emenu\vending\hexdec\R$style$override.class
+CHANGED,C:\Users\birha\Downloads\HexDec\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
